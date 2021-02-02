@@ -1,6 +1,6 @@
 {
   "Stammdaten": [
-    { "Employee ID": "schad", "First Name": "Darius", "Last Name": "Schäfer", "Straße": "Sternstraße", "PLZ": "80567", "Ort": "München", "Email": "Darius.Schaefer@pega.com"},
-    { "Employee ID": "morsd", "First Name": "Dirk", "Last Name": "Morsbach", "Straße": "Parkstraße", "PLZ": "60322", "Ort": "Frankfurt", "Email": "Dirk.Morsbach@pega.com"}
+    { "Employee ID": "schad", "First Name": "Darius", "Last Name": "Schäfer", "Straße": "Sternstraße", "PLZ": "80567", "Ort": "München", "Email": "Darius.Schaefer@pega.com", "State": "Germany"},
+    { "Employee ID": "morsd", "First Name": "Dirk", "Last Name": "Morsbach", "Straße": "Parkstraße", "PLZ": "60322", "Ort": "Frankfurt", "Email": "Dirk.Morsbach@pega.com", "State": "Germany"}
   ]
 }
