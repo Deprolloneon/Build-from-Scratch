@@ -1,7 +1,6 @@
 {
-  "NEC-Partner": [
-    { "Partner Name": "PegaInstall", "Straße": "Sternstraße", "PLZ": "80567", "Ort": "München", "Email": "PegaInstall@pega.com", "Mobile": "016345345123"},
-    { "Partner Name": "EasyScreen", "Straße": "Parkstraße", "PLZ": "60322", "Ort": "Frankfurt", "Email": "EasyScreen@easy.com", "Mobile": "017642523242"},
-    { "Partner Name": "SmartMonitor", "Straße": "Schlossallee", "PLZ": "65185", "Ort": "Wiesbaden", "Email": "SmartMonitor@smart.com", "Mobile": "015254635434"}
+  "Stammdaten": [
+    { "Employee ID": "schad", "First Name": "Darius", "Last Name": "Schäfer", "Straße": "Sternstraße", "PLZ": "80567", "Ort": "München", "Email": "Darius.Schaefer@pega.com"},
+    { "Employee ID": "morsd", "First Name": "Dirk", "Last Name": "Morsbach", "Straße": "Parkstraße", "PLZ": "60322", "Ort": "Frankfurt", "Email": "Dirk.Morsbach@pega.com"}
   ]
 }
