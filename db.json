@@ -1,6 +1,11 @@
 {
   "Stammdaten": [
-    { "Employee ID": "schad", "First Name": "Darius", "Last Name": "Schäfer", "Straße": "Sternstraße", "PLZ": "80567", "Ort": "München", "Email": "Darius.Schaefer@pega.com", "State": "Germany"},
-    { "Employee ID": "morsd", "First Name": "Dirk", "Last Name": "Morsbach", "Straße": "Parkstraße", "PLZ": "60322", "Ort": "Frankfurt", "Email": "Dirk.Morsbach@pega.com", "State": "Germany"}
+    { "ID": "1", "Category": "Beratung", "Subcategory": "Beratung Lizensierung"},
+    { "ID": "2", "Category": "Beratung", "Subcategory": "Beratung zur Mitgliedschaft"},
+    { "ID": "3", "Category": "Beratung", "Subcategory": "Beratung"},
+    { "ID": "4", "Category": "Support", "Subcategory": "Werkanmeldung unterstützen"},
+    { "ID": "5", "Category": "Support", "Subcategory": "Unterstützung neuer Mitglieder"},
+    { "ID": "6", "Category": "Support", "Subcategory": "Lizenzierung unterstützen"},
+    { "ID": "7", "Category": "Reklamation", "Subcategory": "Werknutzung korrigieren"},
   ]
 }
