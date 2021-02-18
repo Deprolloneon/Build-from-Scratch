@@ -6,6 +6,6 @@
     { "ID": "4", "Category": "Support", "Subcategory": "Werkanmeldung unterstützen"},
     { "ID": "5", "Category": "Support", "Subcategory": "Unterstützung neuer Mitglieder"},
     { "ID": "6", "Category": "Support", "Subcategory": "Lizenzierung unterstützen"},
-    { "ID": "7", "Category": "Reklamation", "Subcategory": "Werknutzung korrigieren"},
+    { "ID": "7", "Category": "Reklamation", "Subcategory": "Werknutzung korrigieren"}
   ]
 }
