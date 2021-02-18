@@ -1,11 +1,7 @@
 {
   "Cagegory": [
-    { "ID": "1", "Category": "Beratung", "Subcategory": "Beratung Lizensierung"},
-    { "ID": "2", "Category": "Beratung", "Subcategory": "Beratung zur Mitgliedschaft"},
-    { "ID": "3", "Category": "Beratung", "Subcategory": "Beratung"},
-    { "ID": "4", "Category": "Support", "Subcategory": "Werkanmeldung unterstuetzen"},
-    { "ID": "5", "Category": "Support", "Subcategory": "Unterstuetzung neuer Mitglieder"},
-    { "ID": "6", "Category": "Support", "Subcategory": "Lizenzierung unterstuetzen"},
-    { "ID": "7", "Category": "Reklamation", "Subcategory": "Werknutzung korrigieren"}
+    { "ID": "1", "Category": "Beratung"},
+    { "ID": "2", "Category": "Support"},
+    { "ID": "3", "Category": "Reklamation"}
   ]
 }
