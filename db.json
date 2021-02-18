@@ -1,5 +1,5 @@
 {
-  "Stammdaten": [
+  "Cagegory": [
     { "ID": "1", "Category": "Beratung", "Subcategory": "Beratung Lizensierung"},
     { "ID": "2", "Category": "Beratung", "Subcategory": "Beratung zur Mitgliedschaft"},
     { "ID": "3", "Category": "Beratung", "Subcategory": "Beratung"},
